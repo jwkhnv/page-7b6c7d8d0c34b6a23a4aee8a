@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6a1e7475fc0efdb452e47315",
+  "owner": "jwkhnv",
+  "repo": "page-7b6c7d8d0c34b6a23a4aee8a",
+  "title": "Slice",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7b6c7d8d0c34b6a23a4aee8a",
+      "a": "Slice",
+      "b": "机场官网线路发布页",
+      "entity": "Slice",
+      "brand": "Slice",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "416a4ade57e2a68cf232c48d57c0419a8e5ff88a3069c12379e84d341cfefefd",
+      "content": {
+        "primary_entity": "Slice",
+        "keyword1": "Slice",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器选择对应对应客户端，查看客户端文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选择套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档方案。基础版每月 100GB 流量、支持 3 台设备，适合个人日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，配备 IPLC 专线与流媒体解锁，适合影音和游戏；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由。所有套餐均按年付享有折扣，可按设备数量与用量灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版适合个人日常浏览，3 台设备与 100GB 月流量可满足手机加电脑的常规使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，适合手机、平板、电脑和电视等多设备家庭场景。",
+          "AI_FAQ_ANSWER_3": "年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，按需选择即可。",
+          "AI_FAQ_ANSWER_4": "下载对应客户端后，导入订阅链接或手动填写服务器信息，按客户端文档完成配置。",
+          "AI_FAQ_ANSWER_5": "基础版使用普通线路节点池，旗舰版配备 IPLC 专线并对游戏加速优化，团队版使用 VIP 高带宽节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度对比三档套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选定即可。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB，重度影音与下载建议旗舰版以上。",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TEXT_3": "三档均支持年付：¥150、¥350、¥850，长期使用年付更省。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Slice 提供基础版、旗舰版与团队版三档海外加速套餐，覆盖个人浏览、影音游戏与企业多设备场景。按设备数量与月流量选择，完成订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备与流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认客户端运行环境与设备并发数是否满足所选套餐要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "下载对应客户端，导入订阅链接或按文档填写配置信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Slice 海外加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tlbibzf.cn",
+    "host": "tlbibzf.cn"
+  },
+  "file_hashes": {
+    "index.html": "650ca86ffa1e8d6fef63ec216eb27ef809c37cb211efc5270d293ebc42de0079",
+    "sitemap.xml": "6731126d5f9b8be267769a414b14dfd281f536eac8955f9f1f2b41fecdc17b65",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02bb0c1b86562a4f3e3026d4280a8401c5be448123f584dc985cb454bb3bb902",
+    "robots.txt": "878c1cd4f8482cbaf1c2a202b79514fce23517f5bb2c55a18f386a01f965b5a3",
+    "142bdbe02df261adb7eabd3431e9d99d.txt": "044b9d989c47ebc654c8c9d864f080ccdcb032c58d051c96e3bb170f0912b5ce"
+  },
+  "revision": "b0876afd4b0888d7952571f5a8e3d7aa26331ed68d2892c6b6d0a462df5d5f9b"
+}
